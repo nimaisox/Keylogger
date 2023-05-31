@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Kali\Downloads\Compressed\Keylogger\Keylogger\main.cpp(78,93): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Keylogger.vcxproj -> C:\Users\Kali\Downloads\Compressed\Keylogger\x64\Debug\Keylogger.exe
